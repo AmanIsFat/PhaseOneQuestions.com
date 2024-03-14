@@ -1,0 +1,15 @@
+.info {
+	color: blue;
+}
+
+.heading {
+	color: red;
+}
+
+.answer {
+	color: #009900;
+}
+
+.missing {
+	color: #ffaa00;
+}
