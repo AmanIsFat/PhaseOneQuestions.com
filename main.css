@@ -17,3 +17,21 @@
 .option {
 	color: violet;
 }
+
+.mainBox {
+	border: 1px solid black;
+}
+
+.copyrightOne {
+	font-style: italic;
+	text-transform: capitalize;
+}
+
+.copyrightMain {
+	font-style: italic;
+	text-transform: capitalize;
+	transform: rotate(45deg);
+	z-index: -1;
+	margin-up: -150px;
+	opacity: 0.3;
+}
